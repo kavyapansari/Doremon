@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background: linear-gradient(#E1BEE7 0%, 	#90CAF9 100%);
+}
+#img_1{
+    
+    width:300px;
+    
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float:right;
+    top:10px;
+    right:30px;
+    cursor:pointer;
+    color:black;
+    
+}
+li {
+  display: inline;
+  padding: 15px;
+    color:hover;
+    
+}
+#welcome_section{
+    font-family: 'Kiwi Maru', serif;
+    text-align: center;
+}
+img{
+  width:300px;
+  height:300px;
+}
+html{
+    scroll-behavior: smooth;
+}
